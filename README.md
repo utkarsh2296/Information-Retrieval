@@ -1,4 +1,5 @@
 # Information-Retrieval
 Contains various assignments on Information Retrieval Techniques.
 bag of word model
-K-NN
+KNN
+Mostly worked on 20_newsgroup dataset.
