@@ -1,5 +1,6 @@
 # Information-Retrieval
 Contains various assignments on Information Retrieval Techniques.
-bag of word model
+Word embedding techniques such as TF-IDF
+Classification Techniques such as Naive Bayes
 KNN
-Mostly worked on 20_newsgroup dataset.
+Mostly worked on 20_newsgroup and stories dataset.
